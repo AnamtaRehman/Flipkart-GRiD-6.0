@@ -1,6 +1,6 @@
 # Flipkart-GRiD-6.0
 
-### Steps to Run the Project:
+### 😃Steps to Run the Project:
 
 **Download the Notebook:**
 - Download the inference.ipynb file from this repository.
