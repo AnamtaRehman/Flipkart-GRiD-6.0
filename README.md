@@ -24,3 +24,5 @@
 **Optional: Download Results:**
 -After viewing the results, download them as a CSV for further use or integration.
 
+![Screenshot 2024-10-19 200818](https://github.com/user-attachments/assets/6bfd1962-4306-4a2d-bbf7-3bc168fb84a4)
+![Screenshot 2024-10-19 200744](https://github.com/user-attachments/assets/d0726f0a-7a9a-4fba-8a54-e1bb404c8e1c)
