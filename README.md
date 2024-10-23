@@ -7,7 +7,7 @@
 
 **Open in Google Colab:**
 - Upload the notebook to Google Colab.
-- Make sure to select GPU (T4 or higher) by going to:
+- Make sure to select GPU (T4 or higher).
 
 **Run All Cells:**
 - Click on Runtime → Run all to execute all the cells sequentially.
