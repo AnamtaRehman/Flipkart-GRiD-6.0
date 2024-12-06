@@ -18,7 +18,7 @@
 - Click on the link and then click "Visit Site" to access the UI.
 
 **Upload Image and View Results:**
-- On the UI, upload a product image or produce image.
+- On the UI, capture a product image or produce image.
 - Click on "Extract Details" or "Freshness Index" to see the results.
 
 **Optional: Download Results:**
