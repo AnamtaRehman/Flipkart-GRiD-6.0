@@ -1,28 +1,18 @@
-# Flipkart-GRiD-6.0
+### 😃 Steps to Run and Test the Web Application:
 
-### 😃Steps to Run the Project:
+1. Open the **`main.ipynb`** file in Google Colab.  
+2. Ensure you are connected to a high-performance GPU, preferably **A100 or higher**.  
+3. Create a folder named **`templates`** in the Colab environment. Upload the required **`details.html`** and **`freshness.html`** files into this folder.  
+4. Execute all the cells in the notebook sequentially.  
+5. Upon successful execution, a **unique live link** to the web application will be generated. Click on the link to **access and test the application**.  
 
-**Download the Notebook:**
-- Download the inference.ipynb file from this repository.
+   *(Sample preview of the link: A unique link will be generated during runtime, which you can open on any device.)*
+![Screenshot 2024-12-11 231809](https://github.com/user-attachments/assets/549e6bfe-ed40-4ec6-bc2e-aa1cfe626d23)
 
-**Open in Google Colab:**
-- Upload the notebook to Google Colab.
-- Make sure to select GPU (T4 or higher).
 
-**Run All Cells:**
-- Click on Runtime → Run all to execute all the cells sequentially.
-- The notebook will install the necessary libraries, load the model, and set up the Flask server.
+### Snippets of the Web App:
 
-**Access the UI:**
-- Once all cells are executed, the last cell will provide a server link.
-- Click on the link and then click "Visit Site" to access the UI.
-
-**Upload Image and View Results:**
-- On the UI, capture a product image or produce image.
-- Click on "Extract Details" or "Freshness Index" to see the results.
-
-**Optional: Download Results:**
--After viewing the results, download them as a CSV for further use or integration.
-
-![Screenshot 2024-10-19 200818](https://github.com/user-attachments/assets/6bfd1962-4306-4a2d-bbf7-3bc168fb84a4)
-![Screenshot 2024-10-19 200744](https://github.com/user-attachments/assets/d0726f0a-7a9a-4fba-8a54-e1bb404c8e1c)
+![Screenshot 2024-12-11 222727](https://github.com/user-attachments/assets/ce81982f-6842-45a8-a598-737dec7fad07)
+![Screenshot 2024-12-11 222916](https://github.com/user-attachments/assets/47bb4d66-609f-48c5-8f5e-0981671e88ab)
+![Screenshot 2024-12-11 222950](https://github.com/user-attachments/assets/1612bbc3-7b9c-4bdf-89df-403ba706e0f8)
+![Screenshot 2024-12-11 223133](https://github.com/user-attachments/assets/5119eb62-2a74-4357-819a-61a13fa29d60)
