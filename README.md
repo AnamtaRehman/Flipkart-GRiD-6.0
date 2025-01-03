@@ -1,3 +1,11 @@
+This solution has been developed using three distinct approaches, each introducing unique advancements and features:
+
+Solution_v1: The foundational implementation that sets the groundwork for extracting product details and freshness.
+Solution_v2: A refined version with enhanced accuracy, efficiency, and improved handling of diverse packaging.
+Solution_v3: The latest and most advanced iteration, incorporating state-of-the-art methods for optimal performance and scalability.
+You can explore and test each version individually by following the instructions provided below.
+
+
 ### 😃 Steps to Run and Test the Web Application:
 
 1. Open the **`Solution_vx`** file in Google Colab.  
