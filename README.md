@@ -1,7 +1,7 @@
 ### 😃 Steps to Run and Test the Web Application:
 
 1. Open the **`Solution_vx`** file in Google Colab.  
-2. Ensure you are connected to a high-performance GPU, preferably **A100 or higher**. (preferred for Solution_v1 and Solution_v2), : **Solution_v3 can run on cpu!**
+2. Ensure you are connected to a high-performance GPU, preferably **A100 or higher**. (preferred for Solution_v1 and Solution_v2), : **Solution_v3 can even run on cpu!**
 4. Create a folder named **`templates`** in the Colab environment. Upload the required **`details.html`** and **`freshness.html`** files into this folder.  
 5. Execute all the cells in the notebook sequentially.  
 6. Upon successful execution, a **unique live link** to the web application will be generated. Click on the link to **access and test the application**.  
